@@ -1,0 +1,23 @@
+.nav_logo{
+      max-width: 17rem;
+      padding: 0 !important;
+      /* height: 6rem !important; */
+}
+
+.navlinks .navlink{
+      font-weight: 500;
+      letter-spacing: 0.6px;
+      /* text-transform: uppercase; */
+      color: #fff !important;
+      margin-left: 0.75rem;
+      margin-right: .75rem;
+      color: #D4D4D4 !important;
+      
+}
+
+.navlinks .navlink:hover{
+      border-top:1px solid #D4D4D4 ;
+      color: #D4D4D4 !important;
+}
+
+

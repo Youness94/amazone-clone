@@ -1,0 +1,47 @@
+.checkout{
+      display: flex;
+      padding: 20px;
+      background-color: white;
+      height: max-content;
+}
+.checkout_img{
+      width: 250px;
+      height: 150px;
+      margin-left: 20px;
+      margin-right: 20px;
+}
+.div_one{
+      margin: 30px;
+      padding: 50px;
+      background-color: white;
+      display: flex;
+      
+}
+.checkout_login{
+      text-decoration: none;
+      color: black;
+      border: 1px solid ;
+      padding: 5px;
+      border-radius: 7px;
+      margin-left: 3px;
+      margin-right: 3px;
+}
+.checkout_link{
+      margin-top: 30px;
+
+      
+}
+#login{
+      background-color: #cd9042;
+}
+.div_cart {
+      margin-left: 60px;
+      
+      
+}
+.div_two{ 
+      background-color: white;
+      margin: 30px;
+      padding: 50px;
+}
+
